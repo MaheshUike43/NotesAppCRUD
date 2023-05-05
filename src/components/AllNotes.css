@@ -1,0 +1,13 @@
+.all-notes{
+    color: gold;
+}
+
+.card{
+    min-height: 400px;
+    border: 0;
+}
+
+.card:hover{
+    transform: scale(1.01);
+    box-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
